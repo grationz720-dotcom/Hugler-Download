@@ -1,0 +1,5 @@
+Wait for v1.1.0. Will be make the universal files, no only for Python programmic language.
+
+Will be do works for bugs. May be design changes.
+
+With love, indi delevoper - grationz720.
